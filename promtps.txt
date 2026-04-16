@@ -36,3 +36,13 @@ Proposito: Agregarle más contenidos a la pagina web
 Evaluación del proposito: esta parte no es tan util porque ya en la primera versión ya se presneto el producto dandolo a conocer más pero
 igual sirve para agregar algo si falto.
 
+Etapa 4:
+
+(Adaptación a dispositivos móviles, promtp)
+
+La pagina web se necesita adaptar a dispositivos pequeños, necesito que sea responsive, una buena legibilidad de la pagina web
+y evitar posibles problemas de distribución al aplicar estos cambios y evitar la redundancia y codigo repetido.
+
+Proposito: Es adaptar mi pagina web a dispositivos pequeños o moviles.
+
+Evaluación del proposito: util porque llegaria a cualquier dispositivo pequeño adaptandolo a mayor publico. 
