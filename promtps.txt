@@ -11,3 +11,15 @@ Proposito: Diseñar una pagina web apta para presentar este modelo de celular.
 
 Evaluación del proposito: Esta etapa 1, es util porque es como inicia la pagina web
  (con todo el contenido html en lo cual sin esto no podria ser util nada.)
+
+ Etapa 2
+
+ (Mejora Visual promtp)
+ A la anterior pagina web se necesita darle un estilo con css, en lo cual requiero mejorar el diseño
+ en lo cual debe ser un diseño acorde a un modelo de un celular, como tecnologico e innovador)
+ un estilo más formal y presentable, la distribución del contenido que vaya ordenado y que sea más distribuido (no quiero todo muy justo)
+ y también que la apariencia de la pagina web sea moderna y llamativa ( como al seleccionar ventajas sean como botones o se muevan)
+ evitar también redundancia o mucho codigo inutil.
+
+Proposito: Darle diseño a la pagina html en lo cual solo veia blanco y negro (ahora dandoles toques más llamativos)
+Evaluación del proposito: Util porque se le da una esencia a la pagina web, llamando más la atención al publico.
