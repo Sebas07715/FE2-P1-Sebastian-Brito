@@ -1,0 +1,13 @@
+Etapa 1
+
+ (Versión Inicial promtp)
+Una empresa telefonica necesita presentar el nuevo prototipo de un modelo de celular Honor Lite.
+En lo cual necesito una pagina web para presentar este producto, con su nombre,
+una breve descripción que sea atractiva al publico, llevar una estructura basica que sea tecnologica
+y la presentación del producto (Que ventajas tiene, capacidad, la calidad de la camara y otras cosas que sean llamativas),
+ en lo cual quiero que solo sea la parte html sin diseño aún, sin redundancia y sin codigo repetitivo.
+
+Proposito: Diseñar una pagina web apta para presentar este modelo de celular.
+
+Evaluación del proposito: Esta etapa 1, es util porque es como inicia la pagina web
+ (con todo el contenido html en lo cual sin esto no podria ser util nada.)
