@@ -23,3 +23,16 @@ Evaluación del proposito: Esta etapa 1, es util porque es como inicia la pagina
 
 Proposito: Darle diseño a la pagina html en lo cual solo veia blanco y negro (ahora dandoles toques más llamativos)
 Evaluación del proposito: Util porque se le da una esencia a la pagina web, llamando más la atención al publico.
+
+Etapa 3
+
+(Incorporación de contenido promtp)
+
+Agregarle caracteristicas principales del producto de este modelo de celular, beneficios que lleva, especificaciones tecnicas
+y las ventajas que presenta este modelo frente a otros, quiero que evites redundancia y sin codigos que se repitan si ya esta no lo repitas.
+
+Proposito: Agregarle más contenidos a la pagina web
+
+Evaluación del proposito: esta parte no es tan util porque ya en la primera versión ya se presneto el producto dandolo a conocer más pero
+igual sirve para agregar algo si falto.
+
